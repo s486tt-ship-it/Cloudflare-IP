@@ -1,6 +1,9 @@
 # CF IP Optimization —— YouTube好软推荐(修改版)
 
 Cloudflare 优选 IP 测速工具 GUI 版。基于原版 `Cloudflare优选IP_by YouTube好软推荐` 优化改进。
+本项目基于原作者 [ethgan](https://github.com/ethgan) 的开源项目 [CF-ips-scanner](https://github.com/ethgan/CF-ips-scanner) 进行二次开发与优化。
+
+在此对原作者的开源贡献表示诚挚的感谢！
 
 ## 功能特性
 
